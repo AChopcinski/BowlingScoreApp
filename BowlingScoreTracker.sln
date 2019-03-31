@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28721.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingScoreTracker", "BowlingScoreTracker\BowlingScoreTracker.csproj", "{4D1450DC-B732-4627-A23D-CB26D97E930D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameDisplayTests", "FrameDisplayTests\FrameDisplayTests.csproj", "{83CBFEA5-F6F3-499C-BB65-5BC654ADABB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D1450DC-B732-4627-A23D-CB26D97E930D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1450DC-B732-4627-A23D-CB26D97E930D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1450DC-B732-4627-A23D-CB26D97E930D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1450DC-B732-4627-A23D-CB26D97E930D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CBFEA5-F6F3-499C-BB65-5BC654ADABB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CBFEA5-F6F3-499C-BB65-5BC654ADABB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CBFEA5-F6F3-499C-BB65-5BC654ADABB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CBFEA5-F6F3-499C-BB65-5BC654ADABB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5DB92A3-AD7B-436D-A619-FE73EE1028CE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Nether\Source\Repos\BowlingScoreTracker\BowlingScoreTracker\bin\Debug\netstandard2.0\BowlingScoreTracker.deps.json
+C:\Users\Nether\Source\Repos\BowlingScoreTracker\BowlingScoreTracker\bin\Debug\netstandard2.0\BowlingScoreTracker.dll
+C:\Users\Nether\Source\Repos\BowlingScoreTracker\BowlingScoreTracker\obj\Debug\netstandard2.0\BowlingScoreTracker.csprojAssemblyReference.cache
+C:\Users\Nether\Source\Repos\BowlingScoreTracker\BowlingScoreTracker\obj\Debug\netstandard2.0\BowlingScoreTracker.csproj.CoreCompileInputs.cache
+C:\Users\Nether\Source\Repos\BowlingScoreTracker\BowlingScoreTracker\obj\Debug\netstandard2.0\BowlingScoreTracker.AssemblyInfoInputs.cache
+C:\Users\Nether\Source\Repos\BowlingScoreTracker\BowlingScoreTracker\obj\Debug\netstandard2.0\BowlingScoreTracker.AssemblyInfo.cs
+C:\Users\Nether\Source\Repos\BowlingScoreTracker\BowlingScoreTracker\bin\Debug\netstandard2.0\BowlingScoreTracker.pdb
+C:\Users\Nether\Source\Repos\BowlingScoreTracker\BowlingScoreTracker\obj\Debug\netstandard2.0\BowlingScoreTracker.dll
+C:\Users\Nether\Source\Repos\BowlingScoreTracker\BowlingScoreTracker\obj\Debug\netstandard2.0\BowlingScoreTracker.pdb
